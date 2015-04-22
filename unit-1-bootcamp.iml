@@ -7,5 +7,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="jar" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jar/google-gson-2.2.4" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/jar/google-gson-2.2.4" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/jar/google-gson-2.2.4" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/jar/google-gson-2.2.4" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
